@@ -9,4 +9,4 @@
 
 A curated list of awesome machine learning frameworks, libraries and software (by language). Inspired by awesome-php.
 
-<center><img src="assets/img/awesome-ml.jpg"/></center>
+<center><img src="assets/img/awesome-ml.png"/></center>
